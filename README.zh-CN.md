@@ -260,11 +260,11 @@ $$
 峰值点骨架：
 
 $$
-S =
-\left\{
-\left(\Delta_i^{+},F_i^{+}\right),
-\left(\Delta_i^{-},F_i^{-}\right)
-\right\}_{i=1}^{m}
+\begin{aligned}
+S_i^{+} &= \left(\Delta_i^{+},F_i^{+}\right) \\
+S_i^{-} &= \left(\Delta_i^{-},F_i^{-}\right)
+\end{aligned}
+\qquad i=1,\ldots,m
 $$
 
 外包络骨架：
