@@ -1,4 +1,4 @@
-# hysteresis-drawing-skill
+# hysteresis drawing skill
 
 <p align="center">
   <a href="./README.md"><img alt="English" src="https://img.shields.io/badge/Language-English-blue"></a>
