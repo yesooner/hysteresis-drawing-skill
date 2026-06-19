@@ -117,7 +117,7 @@ $$
 \Delta_i = \left|\Delta^{+}_{i}\right|
 $$
 
-其中，$\Delta_i$ 为第 $i$ 个 loop 对应的名义位移级，$\Delta^{+}_{i}$ 为 ramp 中第 $i$ 个正向峰值位移。
+其中， $\Delta_i$ 为第 $i$ 个 loop 对应的名义位移级，$\Delta^{+}_{i}$ 为 ramp 中第 $i$ 个正向峰值位移。
 
 **实现流程**
 
